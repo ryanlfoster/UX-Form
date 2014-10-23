@@ -1,0 +1,131 @@
+/*---------- Main Index Page ----------*/
+
+
+
+.mainheader {
+	background:#434343;
+	border-top:6px solid #E201771;
+	border-bottom:4px solid #088696;
+	margin-bottom:15px;
+}
+
+.maintitle {
+	color:#FFFFFF;
+}
+
+.intorazortitle {
+	color:#CCCCCC;
+}
+
+.razortitle {
+	color:#E20177;
+}
+
+.section {
+	color:#951056 !important;
+}
+
+.section2 {
+	color:#8A98A1 !important;
+}
+
+.secondtitle {
+	background:#8A98A1;
+	padding:10px;
+}
+
+.mainfooter {
+	background:#055b66;
+	border-top:4px solid #434343;
+	color:#45c4dc;
+}
+
+.mainfooter h4 {
+	font-family: 'Courgette', cursive;
+	color:#45c4dc;
+}
+
+.mainfooter a {
+	color:#45c4dc;
+}
+
+.mainfooter a:hover {
+	color:#7dd2fc;
+}
+
+.create {
+	color:#088696;
+}
+
+
+/*---------- Main Index Page ----------*/
+
+
+/*---------- Evaluation Page ----------*/
+
+.evalheader {
+	background: #8A98A1;
+	border-bottom:2px solid #951056;
+}
+
+.evaltitle {
+	color: #FFF;
+}
+
+.siteone_heading {
+	border-top:2px solid #951056;
+}
+
+.sitetwo_heading {
+	border-top:2px solid #e7ce18;
+}
+
+.siteone_tablehead {
+	background: rgba(149,16,86,0.5);
+}
+
+.sitetwo_tablehead {
+	background: rgba(231,206,24,0.5);	
+}
+
+/*---------- Evaluation Page ----------*/
+
+/*---------- Site Map Page ----------*/
+
+.page_content_header {
+	border-bottom:2px solid #961056;
+}
+
+.page_content {
+	color: #961056;
+}
+
+.inline_content_header {
+	border-bottom:2px solid #088696;
+}
+
+.inline_content {
+	color: #088696;
+}
+
+.listdrop {
+	text-align:center;
+}
+
+.grouped_content {
+	border:1px dashed #A09132;
+	padding:5px;
+}
+
+.grouped_content_text {
+	color:#A09132;
+}
+
+/*---------- Site Map Page ----------*/
+
+
+/*---------- homepage layout ----------*/
+
+.homepage_hero {
+	padding:20px 0px 0px 20px;
+}
